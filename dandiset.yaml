@@ -98,6 +98,7 @@ contributor:
   - dcite:ProjectLeader
   schemaKey: Person
 dateCreated: '2025-02-24T19:38:21.113123+00:00'
+datePublished: '2025-04-01T15:56:18.589621+00:00'
 description: HMBA Lein PatchSeq upload (nonhuman primate) (Q1 2025)
 ethicsApproval: []
 id: DANDI:001348/draft
@@ -111,6 +112,18 @@ manifestLocation:
 name: 20250331_AIBS_Patchseq_nonhuman_primate
 protocol:
 - https://www.protocols.io/view/patch-seq-recording-and-extraction-8epv51n45l1b/v3
+publishedBy:
+  endDate: '2025-04-01T15:56:18.589621+00:00'
+  id: urn:uuid:f810bb0a-a53b-45d5-aa1f-3d0cb9d805da
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-04-01T15:56:18.589621+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:05add98e-51ef-419f-9050-93dde77cc6a1
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
